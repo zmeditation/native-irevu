@@ -1,0 +1,13 @@
+node_modules
+/ios/pods
+/android/app/build
+/android/app/release
+.idea
+/android/.idea
+/android/.gradle
+android/.DS_Store
+yarn.lock
+package-lock.json
+/ios/Podfile.lock
+android/java_pid58805.hprof
+.vscode
